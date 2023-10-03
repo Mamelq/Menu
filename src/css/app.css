@@ -311,6 +311,18 @@ html, body {
   font-size: 16px;
 }
 
+@font-face {
+  font-family: "Robp Italic";
+  src: url("font-path/roboto-italic-webfont.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Roboto Regular";
+  src: url("font-path/roboto-regular-webfont.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
 .header {
   background-color: lightcoral;
 }
